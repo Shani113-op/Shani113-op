@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shani113-op&label=Profile%20views&color=0e75b6&style=flat" alt="Shani113-op" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
-- 🔭 I’m currently working on [FoodCode-Food Delivery](https://github.com/Surya86899/BMS)
+- 🔭 I’m currently working on [FoodCode-Food Delivery](https://github.com/Shani113-op/FoodCode)
 
 - 🌱 I’m currently learning **Python**
 
